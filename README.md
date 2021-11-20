@@ -8,16 +8,16 @@ pioneers to people
 		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v17.6 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Leen Heyne</title>
+	<title>PtoP</title>
 	<link rel="canonical" href="https://leenheyne.nl/home" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Leen Heyne" />
+	<meta property="og:title" content="PtoP" />
 	<meta property="og:url" content="https://leenheyne.nl/home" />
-	<meta property="og:site_name" content="Leen Heyne" />
+	<meta property="og:site_name" content="PtoP" />
 	<meta property="article:modified_time" content="2020-12-08T19:26:43+00:00" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://leenheyne.nl/#organization","name":"Leen Heyne","url":"https://leenheyne.nl/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://leenheyne.nl/#logo","inLanguage":"en-US","url":"https://leenheyne.nl/wp-content/uploads/2020/11/LH_wordmark_header.png","contentUrl":"https://leenheyne.nl/wp-content/uploads/2020/11/LH_wordmark_header.png","width":3170,"height":374,"caption":"Leen Heyne"},"image":{"@id":"https://leenheyne.nl/#logo"}},{"@type":"WebSite","@id":"https://leenheyne.nl/#website","url":"https://leenheyne.nl/","name":"Leen Heyne","description":"Jewelry","publisher":{"@id":"https://leenheyne.nl/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://leenheyne.nl/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://leenheyne.nl/home#webpage","url":"https://leenheyne.nl/home","name":"Leen Heyne","isPartOf":{"@id":"https://leenheyne.nl/#website"},"datePublished":"2020-11-02T12:02:15+00:00","dateModified":"2020-12-08T19:26:43+00:00","breadcrumb":{"@id":"https://leenheyne.nl/home#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://leenheyne.nl/home"]}]},{"@type":"BreadcrumbList","@id":"https://leenheyne.nl/home#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://leenheyne.nl/"},{"@type":"ListItem","position":2,"name":"Home"}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://ptop.nl/#organization","name":"PtoP","url":"https://ptop.nl/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://ptop.nl/#logo","inLanguage":"en-US","url":"https://ptop.nl/wp-content/uploads/2020/11/LH_wordmark_header.png","contentUrl":"https://ptop.nl/wp-content/uploads/2020/11/LH_wordmark_header.png","width":3170,"height":374,"caption":"PtoP"},"image":{"@id":"https://ptop.nl/#logo"}},{"@type":"WebSite","@id":"https://ptop.nl/#website","url":"https://ptop.nl/","name":"PtoP","description":"Jewelry","publisher":{"@id":"https://ptop.nl/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ptop.nl/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://ptop.nl/home#webpage","url":"https://ptop.nl/home","name":"PtoP","isPartOf":{"@id":"https://leenheyne.nl/#website"},"datePublished":"2020-11-02T12:02:15+00:00","dateModified":"2020-12-08T19:26:43+00:00","breadcrumb":{"@id":"https://ptop.nl/home#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://ptop.nl/home"]}]},{"@type":"BreadcrumbList","@id":"https://leenheyne.nl/home#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://ptop.nl/"},{"@type":"ListItem","position":2,"name":"Home"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
